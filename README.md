@@ -1,2 +1,4 @@
 # c16s-web
-Simple Website Template
+# Simple Website with Bootstrap
+
+# Preview [c16s.](https://c16s.com/)
